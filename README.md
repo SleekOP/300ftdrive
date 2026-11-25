@@ -1,22 +1,24 @@
-# 300 Feet — Highway Pursuit
+# 300 Feet — Dhaka Road Run
 
-An original browser driving game set on Dhaka's 300 Feet Road. This edition includes a procedural 3D road, randomized traffic, roadside scenery, day/night lighting, rain, a stabilized chase camera, a cockpit camera with live speedometer, and a 2 km destination run. Its models and materials are original.
+Take a fast drive along Dhaka’s 300 Feet Road. Dodge traffic, watch your speed, and see if you can reach Neela Market before the police catch you.
 
-## Play
+## How to play
 
-Open `index.html` locally or deploy this folder as a static site on Netlify. No build step is needed. Three.js loads from cdnjs; if the CDN is unavailable, the original canvas renderer remains as a fallback.
+- **Up / W:** Accelerate
+- **Down / S:** Brake
+- **Left / Right / A / D:** Steer
+- On mobile, use the on-screen controls.
 
-- Up / W: accelerate
-- Down / S: brake
-- Left / Right / A / D: steer
-- C or the camera button: switch between cockpit and chase views
-- Rain button: toggle rain
-- On mobile, use the on-screen controls
+Choose **The Run** for a police chase, or **Free Drive** to keep cruising. Use the in-game menu to switch modes, and the sun/moon button to change from golden hour to night.
 
-Choose **The Run** to reach Neela Market in 2 km, or **Free Drive** to cruise. The sun/moon button changes lighting.
+## Radio and sound
 
-## Audio
+Turn on Radio Foorti 88.0 FM for its live broadcast. The radio needs an internet connection and may be unavailable if the station’s stream is down. The sound button controls the game’s effects separately.
 
-Sound effects are generated in the browser. Bengali voice lines wait for voices to load, prefer a Bengali voice labelled male, and use a deep pitch. The browser's installed Bengali voices determine the final voice timbre. Radio Foorti requires an internet connection.
+## Drive safe in real life
 
-Made for entertainment. Drive safely in real life.
+This game is made for entertainment purposes only. Please drive safely in real life.
+
+## Designed for desktop play, mobile support is not available yet
+
+Created by Sleek.
